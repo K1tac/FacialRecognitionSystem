@@ -10,7 +10,7 @@ import face_recognition
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 TRAINING_DIR = PROJECT_DIR / "trainingimages"
 
-ESP32_IP = "192.168.1.84"
+ESP32_IP = "777.67.77.77" # replace with your actual ip.
 FRAME_PATH = "/frame"
 
 KNOWN_SIZES = {
